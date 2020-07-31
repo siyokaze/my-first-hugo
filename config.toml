@@ -1,8 +1,8 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
-baseurl = "http://localhost:5500/public/"  # Include trailing slash
-title = "Clarity"
-author = "Jane Doe"
+baseurl = "https://zen-murdock-bd2e8c.netlify.app/"  # Include trailing slash
+title = "My First Hugo"
+author = "Oplabo"
 copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
 # canonifyurls = true
 paginate = 10
